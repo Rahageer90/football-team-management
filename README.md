@@ -1,1 +1,1 @@
-Football Club Management System is a comprehensive platform tailored to meet the needs of football clubs globally. Our system empowers players, coaches, physiotherapists, and administrators with a range of features designed to optimize team performance and streamline club operations
+Football Club Management System is a comprehensive platform tailored to meet the needs of football clubs globally. Our system empowers players, coaches, physiotherapists, and administrators with a range of features designed to optimize team performance and streamline club operations.
